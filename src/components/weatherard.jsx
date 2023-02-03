@@ -3,7 +3,7 @@ import React from "react";
 
 const WeatherCard = ({ weather }) => {
     return (
-        <div className="wrather-card">
+        <div className="weather-card">
             <div className="card-header">
                 <div>
                     <p className="weather-city">
